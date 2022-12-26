@@ -1,1 +1,2 @@
-# dino_game
+# It's a game "Dino"
+## My first experience with JavaScript
